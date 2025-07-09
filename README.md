@@ -1,6 +1,6 @@
 ## Hi, I'm Dirk 👋
 
-- 🧠​ I identify as a creative coder<br/>
+- 🧠​ I identify myself as a creative coder<br/>
 - ⚡ Fun fact: Life🌱<br/>
 <!--
 **tampert/tampert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
